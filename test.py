@@ -1,3 +1,7 @@
+from math import *
+
+def sqt(n):
+  return sqrt(n)
 
 
 n,m = map(int,input().split())
